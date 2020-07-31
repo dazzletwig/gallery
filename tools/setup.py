@@ -14,7 +14,6 @@ PATH = os.path.dirname(__file__) + '/../'
 RELATIVE_PATH = 'photos'
 PHOTO_PATH = PATH + RELATIVE_PATH
 
-
 def is_original(path):
     return '.min.' not in path and '.placeholder.' not in path and is_image_path(path)
 
