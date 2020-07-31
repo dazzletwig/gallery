@@ -5,7 +5,7 @@
       "height": 1200,
       "path": "./photos/Comics/parallels.png",
       "compressed_path": "./photos/Comics/parallels.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Comics/parallels.placeholder.png"
     },
     {
@@ -13,7 +13,7 @@
       "height": 800,
       "path": "./photos/Comics/sendai frogs.png",
       "compressed_path": "./photos/Comics/sendai frogs.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Comics/sendai frogs.placeholder.png"
     },
     {
@@ -21,7 +21,7 @@
       "height": 7200,
       "path": "./photos/Comics/snow fairy.png",
       "compressed_path": "./photos/Comics/snow fairy.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Comics/snow fairy.placeholder.png"
     },
     {
@@ -29,7 +29,7 @@
       "height": 800,
       "path": "./photos/Comics/ushiken.png",
       "compressed_path": "./photos/Comics/ushiken.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Comics/ushiken.placeholder.png"
     }
   ],
@@ -39,7 +39,7 @@
       "height": 1200,
       "path": "./photos/Illustrations/fashion2.png",
       "compressed_path": "./photos/Illustrations/fashion2.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/fashion2.placeholder.png"
     },
     {
@@ -47,7 +47,7 @@
       "height": 1200,
       "path": "./photos/Illustrations/hogwarts suga.png",
       "compressed_path": "./photos/Illustrations/hogwarts suga.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/hogwarts suga.placeholder.png"
     },
     {
@@ -55,7 +55,7 @@
       "height": 800,
       "path": "./photos/Illustrations/hogwarts yamaguchi.png",
       "compressed_path": "./photos/Illustrations/hogwarts yamaguchi.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/hogwarts yamaguchi.placeholder.png"
     },
     {
@@ -63,7 +63,7 @@
       "height": 1200,
       "path": "./photos/Illustrations/howl oik.png",
       "compressed_path": "./photos/Illustrations/howl oik.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/howl oik.placeholder.png"
     },
     {
@@ -71,7 +71,7 @@
       "height": 1200,
       "path": "./photos/Illustrations/moon haute couture.png",
       "compressed_path": "./photos/Illustrations/moon haute couture.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/moon haute couture.placeholder.png"
     },
     {
@@ -79,7 +79,7 @@
       "height": 1600,
       "path": "./photos/Illustrations/oik milotic.png",
       "compressed_path": "./photos/Illustrations/oik milotic.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/oik milotic.placeholder.png"
     },
     {
@@ -87,7 +87,7 @@
       "height": 1600,
       "path": "./photos/Illustrations/pokemon suga.png",
       "compressed_path": "./photos/Illustrations/pokemon suga.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/pokemon suga.placeholder.png"
     },
     {
@@ -95,7 +95,7 @@
       "height": 1200,
       "path": "./photos/Illustrations/ravenclaw akaashi.png",
       "compressed_path": "./photos/Illustrations/ravenclaw akaashi.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/ravenclaw akaashi.placeholder.png"
     },
     {
@@ -103,7 +103,7 @@
       "height": 600,
       "path": "./photos/Illustrations/rising tides.png",
       "compressed_path": "./photos/Illustrations/rising tides.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/rising tides.placeholder.png"
     },
     {
@@ -111,7 +111,7 @@
       "height": 2400,
       "path": "./photos/Illustrations/sakusa sherlock.png",
       "compressed_path": "./photos/Illustrations/sakusa sherlock.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/sakusa sherlock.placeholder.png"
     },
     {
@@ -119,7 +119,7 @@
       "height": 1200,
       "path": "./photos/Illustrations/string theory bokuaka.png",
       "compressed_path": "./photos/Illustrations/string theory bokuaka.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/string theory bokuaka.placeholder.png"
     },
     {
@@ -127,7 +127,7 @@
       "height": 800,
       "path": "./photos/Illustrations/study.png",
       "compressed_path": "./photos/Illustrations/study.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/study.placeholder.png"
     },
     {
@@ -135,7 +135,7 @@
       "height": 2100,
       "path": "./photos/Illustrations/suitshoyo.png",
       "compressed_path": "./photos/Illustrations/suitshoyo.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/suitshoyo.placeholder.png"
     },
     {
@@ -143,7 +143,7 @@
       "height": 1688,
       "path": "./photos/Illustrations/svt left and right.png",
       "compressed_path": "./photos/Illustrations/svt left and right.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/svt left and right.placeholder.png"
     },
     {
@@ -151,7 +151,7 @@
       "height": 1200,
       "path": "./photos/Illustrations/witcher sakusa tavern 1.png",
       "compressed_path": "./photos/Illustrations/witcher sakusa tavern 1.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Illustrations/witcher sakusa tavern 1.placeholder.png"
     }
   ],
@@ -161,7 +161,7 @@
       "height": 1000,
       "path": "./photos/Sketches/airbender komori.png",
       "compressed_path": "./photos/Sketches/airbender komori.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Sketches/airbender komori.placeholder.png"
     },
     {
@@ -169,7 +169,7 @@
       "height": 1080,
       "path": "./photos/Sketches/avatar u19 (Large).png",
       "compressed_path": "./photos/Sketches/avatar u19 (Large).min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Sketches/avatar u19 (Large).placeholder.png"
     },
     {
@@ -177,7 +177,7 @@
       "height": 1800,
       "path": "./photos/Sketches/kids2.png",
       "compressed_path": "./photos/Sketches/kids2.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Sketches/kids2.placeholder.png"
     },
     {
@@ -185,7 +185,7 @@
       "height": 1600,
       "path": "./photos/Sketches/komori bday.png",
       "compressed_path": "./photos/Sketches/komori bday.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Sketches/komori bday.placeholder.png"
     },
     {
@@ -193,7 +193,7 @@
       "height": 1800,
       "path": "./photos/Sketches/mastuhana greek.png",
       "compressed_path": "./photos/Sketches/mastuhana greek.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Sketches/mastuhana greek.placeholder.png"
     },
     {
@@ -201,7 +201,7 @@
       "height": 1200,
       "path": "./photos/Sketches/mentors and rivals.png",
       "compressed_path": "./photos/Sketches/mentors and rivals.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Sketches/mentors and rivals.placeholder.png"
     },
     {
@@ -209,7 +209,7 @@
       "height": 1200,
       "path": "./photos/Sketches/tonguetsumu.png",
       "compressed_path": "./photos/Sketches/tonguetsumu.min.png",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Sketches/tonguetsumu.placeholder.png"
     }
   ]
