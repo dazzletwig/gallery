@@ -1,270 +1,216 @@
 {
-  "Mockups": [
+  "Comics": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos/Comics/parallels.png",
+      "compressed_path": "./photos/Comics/parallels.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Comics/parallels.placeholder.png"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "width": 1200,
+      "height": 800,
+      "path": "./photos/Comics/sendai frogs.png",
+      "compressed_path": "./photos/Comics/sendai frogs.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Comics/sendai frogs.placeholder.png"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "width": 940,
+      "height": 7200,
+      "path": "./photos/Comics/snow fairy.png",
+      "compressed_path": "./photos/Comics/snow fairy.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Comics/snow fairy.placeholder.png"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
-    },
-    {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
+      "width": 800,
+      "height": 800,
+      "path": "./photos/Comics/ushiken.png",
+      "compressed_path": "./photos/Comics/ushiken.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Comics/ushiken.placeholder.png"
     }
   ],
-  "Travel Photography": [
+  "Illustrations": [
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos/Illustrations/fashion2.png",
+      "compressed_path": "./photos/Illustrations/fashion2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/fashion2.placeholder.png"
     },
     {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos/Illustrations/hogwarts suga.png",
+      "compressed_path": "./photos/Illustrations/hogwarts suga.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/hogwarts suga.placeholder.png"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "width": 800,
+      "height": 800,
+      "path": "./photos/Illustrations/hogwarts yamaguchi.png",
+      "compressed_path": "./photos/Illustrations/hogwarts yamaguchi.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/hogwarts yamaguchi.placeholder.png"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos/Illustrations/howl oik.png",
+      "compressed_path": "./photos/Illustrations/howl oik.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/howl oik.placeholder.png"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "width": 800,
+      "height": 1200,
+      "path": "./photos/Illustrations/moon haute couture.png",
+      "compressed_path": "./photos/Illustrations/moon haute couture.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/moon haute couture.placeholder.png"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "width": 1600,
+      "height": 1600,
+      "path": "./photos/Illustrations/oik milotic.png",
+      "compressed_path": "./photos/Illustrations/oik milotic.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/oik milotic.placeholder.png"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "width": 1200,
+      "height": 1600,
+      "path": "./photos/Illustrations/pokemon suga.png",
+      "compressed_path": "./photos/Illustrations/pokemon suga.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/pokemon suga.placeholder.png"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos/Illustrations/ravenclaw akaashi.png",
+      "compressed_path": "./photos/Illustrations/ravenclaw akaashi.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/ravenclaw akaashi.placeholder.png"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "width": 800,
+      "height": 600,
+      "path": "./photos/Illustrations/rising tides.png",
+      "compressed_path": "./photos/Illustrations/rising tides.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/rising tides.placeholder.png"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "width": 2000,
+      "height": 2400,
+      "path": "./photos/Illustrations/sakusa sherlock.png",
+      "compressed_path": "./photos/Illustrations/sakusa sherlock.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/sakusa sherlock.placeholder.png"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "width": 800,
+      "height": 1200,
+      "path": "./photos/Illustrations/string theory bokuaka.png",
+      "compressed_path": "./photos/Illustrations/string theory bokuaka.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/string theory bokuaka.placeholder.png"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
+      "width": 800,
+      "height": 800,
+      "path": "./photos/Illustrations/study.png",
+      "compressed_path": "./photos/Illustrations/study.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/study.placeholder.png"
     },
     {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
+      "width": 3000,
+      "height": 2100,
+      "path": "./photos/Illustrations/suitshoyo.png",
+      "compressed_path": "./photos/Illustrations/suitshoyo.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/suitshoyo.placeholder.png"
     },
     {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
+      "width": 2250,
+      "height": 1688,
+      "path": "./photos/Illustrations/svt left and right.png",
+      "compressed_path": "./photos/Illustrations/svt left and right.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/svt left and right.placeholder.png"
     },
     {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
+      "width": 1600,
+      "height": 1200,
+      "path": "./photos/Illustrations/witcher sakusa tavern 1.png",
+      "compressed_path": "./photos/Illustrations/witcher sakusa tavern 1.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Illustrations/witcher sakusa tavern 1.placeholder.png"
+    }
+  ],
+  "Sketches": [
+    {
+      "width": 1000,
+      "height": 1000,
+      "path": "./photos/Sketches/airbender komori.png",
+      "compressed_path": "./photos/Sketches/airbender komori.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Sketches/airbender komori.placeholder.png"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos/Sketches/avatar u19 (Large).png",
+      "compressed_path": "./photos/Sketches/avatar u19 (Large).min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Sketches/avatar u19 (Large).placeholder.png"
     },
     {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+      "width": 1800,
+      "height": 1800,
+      "path": "./photos/Sketches/kids2.png",
+      "compressed_path": "./photos/Sketches/kids2.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Sketches/kids2.placeholder.png"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
+      "width": 1200,
+      "height": 1600,
+      "path": "./photos/Sketches/komori bday.png",
+      "compressed_path": "./photos/Sketches/komori bday.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Sketches/komori bday.placeholder.png"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
+      "width": 1800,
+      "height": 1800,
+      "path": "./photos/Sketches/mastuhana greek.png",
+      "compressed_path": "./photos/Sketches/mastuhana greek.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Sketches/mastuhana greek.placeholder.png"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos/Sketches/mentors and rivals.png",
+      "compressed_path": "./photos/Sketches/mentors and rivals.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Sketches/mentors and rivals.placeholder.png"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
-    },
-    {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
-    },
-    {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
-    },
-    {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
-    },
-    {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
-    },
-    {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
-    },
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
-    },
-    {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos/Sketches/tonguetsumu.png",
+      "compressed_path": "./photos/Sketches/tonguetsumu.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Sketches/tonguetsumu.placeholder.png"
     }
   ]
 }
